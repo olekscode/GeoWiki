@@ -1,0 +1,7 @@
+.Rhistory
+data/*
+data/csv/*
+data/csv/all_planets/*
+data/shape/*
+data/shape/UKR_adm_shp/*
+data/sql/*
